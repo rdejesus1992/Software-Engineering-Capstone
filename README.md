@@ -1,2 +1,2 @@
 # Sftware-Engineering-Capstone
-This repository is for my Software engineering capstone at SNHU
+This repository is for Ryan DeJesus's Software engineering capstone at SNHU
