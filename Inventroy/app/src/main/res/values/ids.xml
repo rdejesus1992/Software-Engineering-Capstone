@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="createAcctButton" type="id" />
+    <item name="userPasswordAccess" type="id" />
+    <item name="userNameAccess" type="id" />
+    <item name="addHeader" type="id" />
+    <item name="itemNameAdd" type="id" />
+    <item name="itemCountAdd" type="id" />
+    <item name="addItemButton" type="id" />
+    <item name="userName" type="id" />
+    <item name="userPassword" type="id" />
+    <item name="buttonLogIn" type="id" />
+    <item name="createAccount" type="id" />
+    <item name="settings" type="id" />
+    <item name="cancelEditButton" type="id" />
+    <item name="editButton" type="id" />
+    <item name="editItemCount" type="id" />
+    <item name="editItemName" type="id" />
+    <item name="editTextView" type="id" />
+    <item name="table" type="id" />
+    <item name="fragment_list" type="id" />
+    <item name="addItemTitleInput" type="id" />
+    <item name="addItemQuantityInput" type="id" />
+    <item name="addItemUnitsInput" type="id" />
+    <item name="updateButton" type="id" />
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="rePassword" type="id" />
+    <item name="switch_sms" type="id" />
+</resources>
