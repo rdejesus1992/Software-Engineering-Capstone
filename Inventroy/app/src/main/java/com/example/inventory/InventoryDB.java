@@ -1,3 +1,8 @@
+/*
+ This java file holds the code for the database a user creates for the items in their inventory.
+ It creates a table and associates that table and database with the users log in credentials.
+*/
+
 package com.example.inventory;
 
 import android.annotation.SuppressLint;

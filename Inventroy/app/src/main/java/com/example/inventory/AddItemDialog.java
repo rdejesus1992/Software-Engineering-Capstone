@@ -1,3 +1,8 @@
+/*
+ This Java file holds the code that allows the user the tools to add a new item to the database
+ and gives the user confirmation of success.
+*/
+
 package com.example.inventory;
 
 import android.app.AlertDialog;

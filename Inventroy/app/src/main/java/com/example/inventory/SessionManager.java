@@ -1,4 +1,4 @@
-// This java file manages the user sessions when they log into the application.
+/* This java file manages the user sessions when they log into the application. */
 
 package com.example.inventory;
 

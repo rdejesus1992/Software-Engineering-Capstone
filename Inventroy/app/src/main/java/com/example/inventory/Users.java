@@ -1,3 +1,8 @@
+/*
+ THis Java file holds the code for creating the Users class and housing the user information for
+future log ins.
+*/
+
 package com.example.inventory;
 
 import androidx.annotation.NonNull;

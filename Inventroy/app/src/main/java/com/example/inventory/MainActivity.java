@@ -1,5 +1,7 @@
-// This java file manages the main functions of the app for the user as well as modifying and adding new items
-// to the database. As well as pulling information from the database for users to see on the apps display.
+/*
+ This java file manages the main functions of the app for the user as well as modifying and adding new items
+ to the database. As well as pulling information from the database for users to see on the apps display.
+*/
 
 package com.example.inventory;
 

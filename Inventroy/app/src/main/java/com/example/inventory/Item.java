@@ -1,5 +1,7 @@
-// This java file provides the code for the attributes for items in the inventory database. These
-// attributes can be created and modified in the database.
+/*
+ This java file provides the code for the attributes for items in the inventory database. These
+ attributes can be created and modified in the database.
+*/
 
 package com.example.inventory;
 

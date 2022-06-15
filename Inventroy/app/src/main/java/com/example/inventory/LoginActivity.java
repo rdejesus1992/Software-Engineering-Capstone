@@ -1,5 +1,7 @@
-// This java file contains the code that manages the log in activity for all users. This code manages
-// existing users log ins as well as allowing for new users to create log ins as well.
+/*
+ This java file contains the code that manages the log in activity for all users. This code manages
+ existing users log ins as well as allowing for new users to create log ins as well.
+*/
 
 package com.example.inventory;
 

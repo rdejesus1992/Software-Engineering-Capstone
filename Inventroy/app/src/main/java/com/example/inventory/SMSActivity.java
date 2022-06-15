@@ -1,6 +1,8 @@
-// This java file has the code that asks user for permission to send SMS notification updates.
-// It also gives the user confirmation on the app if these permission where allowed or not before
-// leaving the page.
+/*
+ This java file has the code that asks user for permission to send SMS notification updates.
+ It also gives the user confirmation on the app if these permission where allowed or not before
+ leaving the page.
+*/
 
 package com.example.inventory;
 

@@ -1,4 +1,4 @@
-//This java file holds the code that allows for a user to register a log in for a new user.
+/* This java file holds the code that allows for a user to register a log in for a new user. */
 
 package com.example.inventory;
 
