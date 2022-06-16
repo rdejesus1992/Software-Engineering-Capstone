@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my Capstone
 
-You can use the [editor on GitHub](https://github.com/rdejesus1992/Sftware-Engineering-Capstone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Below are my two projects covering the three artifacts.
+- Software Design and Engineering
+- Algorithm and Data Structures
+- Databases
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Inventroy.zip](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8915300/Inventroy.zip)
 
-### Markdown
+[Animal Shelter.zip](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8915331/Animal.Shelter.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(This animal shelter zip file contains only the project files and image, due to size restraints on pages you can find the complete file with all additonal supporting files in the github repository.)
 
-```markdown
-Syntax highlighted code block
+### This is the link to my code review video 
 
-# Header 1
-## Header 2
-### Header 3
+https://youtu.be/Ls1GkGowhjg
 
-- Bulleted
-- List
+### Here is a direct link to the Github repository for access to any files or content you may wish to look at in more detail.
 
-1. Numbered
-2. List
+https://github.com/rdejesus1992/Software-Engineering-Capstone
 
-**Bold** and _Italic_ and `Code` text
+### Located below are the three narratives for each enhancment made to my projects.
 
-[Link](url) and ![Image](src)
-```
+[Milestone2 Enhancemen One Software Design and Engineering.docx](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8915464/Milestone2.Enhancemen.One.Software.Design.and.Engineering.docx)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[4-2 Milestone Three Enhancement Two Algorithms and Data Structure.docx](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8915506/4-2.Milestone.Three.Enhancement.Two.Algorithms.and.Data.Structure.docx)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rdejesus1992/Sftware-Engineering-Capstone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[5-2 Milestone Four Enhancement Three Databases.docx](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8915577/5-2.Milestone.Four.Enhancement.Three.Databases.docx)
