@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_inventory_item.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sms.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_sms_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_sms_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\font_raleway.ttf.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\font\\raleway.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_up_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add_item.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\fragment_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_remove_24.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\font_grand_hotel.ttf.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\font\\grand_hotel.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

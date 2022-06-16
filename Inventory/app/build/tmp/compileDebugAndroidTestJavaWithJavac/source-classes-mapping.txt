@@ -1,0 +1,4 @@
+com/example/inventroy/ExampleInstrumentedTest.java
+ com.example.inventroy.ExampleInstrumentedTest
+com/example/inventroy/test/BuildConfig.java
+ com.example.inventroy.test.BuildConfig

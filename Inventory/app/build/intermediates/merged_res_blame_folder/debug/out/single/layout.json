@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_item.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\fragment_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sms.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inventory_item.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ryanp\\AndroidStudioProjects\\Inventroy\\app\\src\\main\\res\\layout\\activity_register.xml"
+    }
+]
