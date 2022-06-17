@@ -15,7 +15,7 @@
 
 https://youtu.be/Ls1GkGowhjg
 
-###Below are my two projects before any improvments took place.
+### Below are my two projects before any improvments took place.
 
 [Pre Enhancment Inventroy.zip](https://github.com/rdejesus1992/Software-Engineering-Capstone/files/8924207/Pre.Enhancment.Inventroy.zip)
 
